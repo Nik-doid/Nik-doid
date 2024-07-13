@@ -16,7 +16,7 @@ I am currently working on Eyemate.<br>I am learning MERN
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+![](https://cat-fact.herokuapp.com/#/cat/facts/type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nik-doid&icon=0&color=0)](https://visitcount.itsvg.in)
