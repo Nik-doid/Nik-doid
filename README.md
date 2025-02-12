@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Eyemate.<br>I am learning MERN
+I am learning ML.
 
 
 ## 🌐 Socials:
