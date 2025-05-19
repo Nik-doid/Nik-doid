@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning ML.
+Yuu huuu
 
 
 ## 🌐 Socials:
