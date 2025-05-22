@@ -34,7 +34,7 @@ Yuu huuu! I'm Nikesh — a passionate developer.
 ---
 
 ### 😂 Random Dev Meme:
-![Dev Meme]([https://i.imgur.com/5Q2yzxh.png](https://devhumor.com/)](https://devhumor.com/content/uploads/images/May2025/vibe_debugging.jpeg)) 
+![Dev Meme](https://devhumor.com/content/uploads/images/May2025/vibe_debugging.jpeg) 
 
 ---
 
