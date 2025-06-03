@@ -1,5 +1,5 @@
 # 💫 About Me:
--404 <b>---------------------ERROR LOADING---------------------</b>
+<p style="font-size:30px">-404 </p>                                                                     <b>---------------------ERROR LOADING---------------------</b>
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_miunin) 
