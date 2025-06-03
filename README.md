@@ -1,6 +1,8 @@
 # 💫 About Me:
-<p style="font-size:30px; color:red;">-404</p>  
-<b>--------------------- ERROR LOADING ---------------------</b>
+# ❌ 404
+
+**--------------------- ERROR LOADING ---------------------**
+
 
 
 ## 🌐 Connect with me:
