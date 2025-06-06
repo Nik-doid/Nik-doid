@@ -32,7 +32,7 @@
 ---
 
 ### 😂 Random Dev Meme:
-![Dev Meme](https://devhumor.com/content/uploads/images/May2025/vibe_debugging.jpeg) 
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
