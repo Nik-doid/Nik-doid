@@ -36,5 +36,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Nik-doid&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nik-doid&show_icons=true&count_private=true)
 
 <sub><i>✨ Proudly created with [GPRM](https://gprm.itsvg.in)</i></sub>
