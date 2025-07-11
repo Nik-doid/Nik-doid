@@ -32,7 +32,7 @@
 
 ### 😂 Random Dev Meme:
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik-doid)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
