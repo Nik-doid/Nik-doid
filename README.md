@@ -1,7 +1,5 @@
 # 💫 About Me:
-# ❌ 404
-
-**--------------------- ERROR LOADING ---------------------**
+They see me rollin.
 
 
 
