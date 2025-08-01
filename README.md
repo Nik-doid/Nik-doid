@@ -16,6 +16,7 @@ They see me rollin.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-E44D26?style=flat&logo=codeigniter&logoColor=white)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-E44D26?style=flat&logo=codeigniter&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
 ![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=flat&logo=django&logoColor=white)  
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
