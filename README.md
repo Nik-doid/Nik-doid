@@ -49,6 +49,7 @@ Developer on the move, always rolling toward the next big challenge.
 
 ---
 
-##  Thanks for stopping by!  
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FNik-doid&label=&icon=badge-hd-fill&color=%230d6efd&message=&style=flat&tz=Asia%2FKathmandu)
+## 👋 Thanks for stopping by!
+[![Visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FNik-doid&label=Visitors&color=0d6efd&icon=eye&style=flat)](https://github.com/Nik-doid)
+
 
