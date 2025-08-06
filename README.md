@@ -16,7 +16,7 @@ They see me rollin.
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 ![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=flat&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-E44D26?style=flat&logo=codeigniter&logoColor=white)  \
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-E44D26?style=flat&logo=codeigniter&logoColor=white) 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-E44D26?style=flat&logo=codeigniter&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
