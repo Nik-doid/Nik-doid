@@ -1,9 +1,11 @@
 # 💫 About Me:
 They see me rollin.
 
+---
+
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_miunin) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-shrestha-519852289) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_miunin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikesh-shrestha-519852289)  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/PgRkwkeC)
 
 ---
@@ -27,9 +29,6 @@ They see me rollin.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-
----
-
 ---
 
 ### ✍️ Random Dev Quote:
@@ -42,7 +41,7 @@ They see me rollin.
 
 ---
 
+## 👁️ Profile Visits:
 [![](https://visitcount.itsvg.in/api?id=Nik-doid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<sub><i>✨ Proudly created with [GPRM](https://gprm.itsvg.in)</i></sub>
-
+---
