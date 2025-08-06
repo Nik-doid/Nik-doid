@@ -9,18 +9,19 @@ They see me rollin.
 ---
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
+![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=flat&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-E44D26?style=flat&logo=codeigniter&logoColor=white)  \
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-E44D26?style=flat&logo=codeigniter&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-E44D26?style=flat&logo=codeigniter&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-E44D26?style=flat&logo=codeigniter&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=flat&logo=django&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
-![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=flat&logo=jquery&logoColor=white)
+
 
 ---
 
