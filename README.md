@@ -49,5 +49,5 @@ Developer on the move, always rolling toward the next big challenge.
 
 ---
 
-## 👁️ Thanks for stopping by!  
-[![](https://visitcount.itsvg.in/api?id=Nik-doid&icon=0&color=0)](https://visitcount.itsvg.in)
+##  Thanks for stopping by!  
+
