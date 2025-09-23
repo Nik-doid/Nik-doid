@@ -16,6 +16,7 @@ Developer on the move, always rolling toward the next big challenge.
 ### Backend  
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;
+  <img alt="FastApi" src="https://img.shields.io/badge/FastApi-3670A0?style=flat&logo=fastapi&logoColor=ffdd54" />&nbsp;&nbsp;
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />&nbsp;&nbsp;
   <img alt="Django REST Framework" src="https://img.shields.io/badge/Django_REST-009688?style=flat&logo=django&logoColor=white" />&nbsp;&nbsp;
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" />&nbsp;&nbsp;
